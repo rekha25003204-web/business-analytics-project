@@ -58,3 +58,5 @@ images/
 
 ## Limitations
 Fictional dataset; small sample; correlation is not causation; model not validated on a real company's data.
+## Deployed Application Link
+https://business-analytics-project-hwwfsujghfvpakcnitrbht.streamlit.app/
